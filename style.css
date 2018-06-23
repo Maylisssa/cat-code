@@ -68,8 +68,15 @@ h4{
     color: rgb(49, 17, 3);
     font-family: ;
     font-size: 20px;
-    margin: -2, 0, -2, 0;
+    margin-top: 50px;
     text-align: left
+}
+h4{
+    color: rgb(49, 17, 3);
+    font-family: ;
+    font-size: 20px;
+    margin-top: 50px;
+    text-align: center
 }
 
 ul {
@@ -101,7 +108,7 @@ p {
     border: 20px solid saddlebrown;
     display: inline-block;
     width: 30%;
-    height: 250px;
+    height: 300px;
     /* -- border box means that you control the size of the border to keep it proportional: Include padding and border in the element's total width and height:  --> */
     box-sizing: border-box;
 }
