@@ -68,13 +68,13 @@ h4{
     color: rgb(49, 17, 3);
     font-family: ;
     font-size: 20px;
-    margin-top: 50px;
+    margin-top: 75px;
     text-align: left
 }
-h4{
+h5{
     color: rgb(49, 17, 3);
     font-family: ;
-    font-size: 20px;
+    font-size: 35px;
     margin-top: 50px;
     text-align: center
 }
@@ -132,17 +132,17 @@ p {
 }
 
 .button {
-    background-color: darkblue;
+    background-color: rgb(125, 139, 0);
     border: 1px solid darkgrey;
     border-radius: 30px;
     margin: 15px auto;
     color: white;
-    height: 30px;
+    height: 50px;
     width: 150px;
 }
 
 .button:hover {
-    background-color: blueviolet;
+    background-color: rgb(226, 43, 43);
     cursor: pointer;
 }
 
